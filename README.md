@@ -13,14 +13,13 @@
 KmoSha@git
 ------------------------------
 country  • Egypt
-Age      • 16
+age      • 16
 
 os       • Windows 11 x64
 
 status   • student
 learning • Javascript/NodeJS, Networking
-guilded  • fdmz17dev
-discord  • FDMZ17#4616
+discord  • km.p
 website  • https://kyan.ink
 
 repos    • 1
