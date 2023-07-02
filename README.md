@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @kmoshax
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+  <h1 align="center">
+  <i>Hello!</i>
+</h1>
 
-<!---
-kmoshax/kmoshax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+```sh
+~/: ./gitfetch.sh
+```
+
+<img align="left" src="https://avatars.githubusercontent.com/u/128246041?v=4" width="290" />
+
+```haskell
+KmoSha@git
+------------------------------
+country  • Egypt
+Age      • 16
+
+os       • Windows 11 x64
+
+status   • student
+learning • Javascript/NodeJS, Networking
+guilded  • fdmz17dev
+discord  • FDMZ17#4616
+website  • https://kyan.ink
+
+repos    • 1
+commits  • 0
+issues   • 0
+```
