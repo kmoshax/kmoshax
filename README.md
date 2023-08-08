@@ -22,7 +22,8 @@ learning • Javascript/NodeJS, Networking
 discord  • km.p
 website  • https://kyan.ink
 
-repos    • 1
+repos    • 2
+npm      • 2
 commits  • 0
 issues   • 0
 ```
