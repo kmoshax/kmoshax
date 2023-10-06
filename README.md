@@ -20,10 +20,10 @@ os       • Windows 11 x64
 status   • student
 learning • Javascript/NodeJS, Networking
 discord  • km.p
-website  • https://kyan.ink
+website  • https://kmosha.me (soon..)
 
-repos    • 2
-npm      • 2
+repos    • 4
+npm      • 3
 commits  • 0
 issues   • 0
 ```
