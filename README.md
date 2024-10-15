@@ -13,12 +13,12 @@
 kmoshax@git
 ------------------------------
 country  • Egypt
-age      • 16
+age      • 17
 
 os       • Windows 11 x64
 
 status   • student
-learning • Javascript/NodeJS, Typescript, Networking
+learning • Java, NodeJS, Typescript, Networking, Rust, PHP, Golang, BASH
 discord  • kmosha
 website  • https://kmosha.me (soon..)
 
